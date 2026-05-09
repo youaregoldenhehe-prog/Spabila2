@@ -1,0 +1,13 @@
+{
+  "id": "com.youaregoldenhehe.spabila2",
+  "version": "1.0.0",
+  "name": "Spabila2 Movie Repo",
+  "description": "Repositorio personalizado para Nuvio",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "idPrefixes": ["tt"],
+  "scrapers": [
+    "https://youaregoldenhehe.github.io/Spabila2/cuevana.js"
+  ]
+}
